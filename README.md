@@ -19,7 +19,7 @@
 
 - Visualize GT:
 
-  `python visualize.py -d /dataset -s sequences 00-06`
+  `python visualize.py -d /dataset -s sequences:00-06`
 
 - Visualize Our Predictions:
 
