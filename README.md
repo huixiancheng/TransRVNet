@@ -32,6 +32,9 @@
           n: next (next scan)
 
           q: quit (exit program)
+
+## Visualize Video:
+[![Video](https://res.cloudinary.com/marcomontalbano/image/upload/v1627450328/video_to_markdown/images/youtube--NXyBSnMek3M-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/NXyBSnMek3M "Video")
 ## Eval Example:
 
 - Eval Seq 02:
