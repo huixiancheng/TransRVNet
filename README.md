@@ -25,7 +25,9 @@
   `python visualize.py -d /dataset -p /predictions -s 02/03`
 - To navigate:
         b: back (previous scan)
+        
         n: next (next scan)
+        
         q: quit (exit program)
 ## Eval Example:
 
