@@ -6,7 +6,7 @@
 
 
 
-## First please download the [SemanticPoss Dataset](http://www.poss.pku.edu.cn./download.html) from the official website.
+## First please download the [SemanticPOSS Dataset](http://www.poss.pku.edu.cn./download.html) from the official website.
 
 
 
