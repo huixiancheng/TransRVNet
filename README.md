@@ -53,7 +53,7 @@
 
 The code is partly based on [LiDAR-Bonnetal](https://github.com/PRBonn/lidar-bonnetal) and [SalsaNext](https://github.com/Halmstad-University/SalsaNext). Thanks for their open source work.
 
-### Citation
+## Citation
 
 Currently, please consider citing:
 
