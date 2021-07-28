@@ -2,7 +2,7 @@
 
 
 
-## Code coming Soon...Currently we only show our results for visualization and evaluation purposes.
+## Code coming soon...Currently we only show our results for visualization and evaluation purposes.
 
 
 
