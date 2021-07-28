@@ -23,7 +23,9 @@
 - Visualize Our Predictions:
 
   `python visualize.py -d /dataset -p /predictions -s 02/03`
-- To navigate:
+- In the visualization
+
+      To navigate:
 
         b: back (previous scan)
         
