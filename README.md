@@ -4,7 +4,7 @@
 
 ## Code coming Soon...Currently we only show our results for visualization and evaluation purposes.
 
-## Requirements: vispy==0.5.3 PyYAML==5.1.1
+
 
 ## First please download the [SemanticPoss Dataset](http://www.poss.pku.edu.cn./download.html) from the official website.
 
