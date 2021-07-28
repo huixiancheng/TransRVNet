@@ -23,7 +23,10 @@
 - Visualize Our Predictions:
 
   `python visualize.py -d /dataset -p /predictions -s 02/03`
-
+- To navigate:
+        b: back (previous scan)
+        n: next (next scan)
+        q: quit (exit program)
 ## Eval Example:
 
 - Eval Seq 02:
@@ -38,7 +41,7 @@
 
 ## Acknowledgment
 
-The code is partly based on [LiDAR-Bonnetal](https://github.com/PRBonn/lidar-bonnetal) and [[SalsaNext]](https://github.com/Halmstad-University/SalsaNext). Thanks for their open source work.
+The code is partly based on [LiDAR-Bonnetal](https://github.com/PRBonn/lidar-bonnetal) and [SalsaNext](https://github.com/Halmstad-University/SalsaNext). Thanks for their open source work.
 
 ### Citation
 
