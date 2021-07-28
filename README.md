@@ -27,11 +27,11 @@
 
       To navigate:
 
-        b: back (previous scan)
-        
-        n: next (next scan)
-        
-        q: quit (exit program)
+          b: back (previous scan)
+
+          n: next (next scan)
+
+          q: quit (exit program)
 ## Eval Example:
 
 - Eval Seq 02:
